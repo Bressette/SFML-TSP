@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Complete Graph Solver", "Complete Graph Solver\Complete Graph Solver.vcxproj", "{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CompleteGraphSolverSetup", "CompleteGraphSolverSetup\CompleteGraphSolverSetup.vdproj", "{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Debug|x64.ActiveCfg = Debug|x64
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Debug|x64.Build.0 = Debug|x64
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Debug|x86.Build.0 = Debug|Win32
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Release|x64.ActiveCfg = Release|x64
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Release|x64.Build.0 = Release|x64
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Release|x86.ActiveCfg = Release|Win32
+		{0FB8B03C-3778-4B54-A26B-20CC53BA92B0}.Release|x86.Build.0 = Release|Win32
+		{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}.Debug|x64.ActiveCfg = Debug
+		{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}.Debug|x86.ActiveCfg = Debug
+		{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}.Debug|x86.Build.0 = Debug
+		{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}.Release|x64.ActiveCfg = Release
+		{2A738D5A-E1EF-46EC-9EFC-52FE7AACF4D4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF585C1-20C3-452D-AE56-745CB35FC9B3}
+	EndGlobalSection
+EndGlobal

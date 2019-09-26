@@ -1,0 +1,4 @@
+﻿  render.cpp
+c:\users\johnathan\source\repos\complete graph solver\complete graph solver\render.cpp(10): warning C4005: 'INT_MAX': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(35): note: see previous definition of 'INT_MAX'
+  Complete Graph Solver.vcxproj -> C:\Users\Johnathan\source\repos\Complete Graph Solver\Debug\Complete Graph Solver.exe
